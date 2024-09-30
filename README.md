@@ -147,4 +147,4 @@ cargo run -r --bin starklings run new_exercise
 1. [Test](#testing) your changes.
 2. Make sure you have solutions to all the exercises in `./solutions` directory.
 3. Run `cargo run -r --bin starklings compile_solutions` to confirm all exercise solutions still compile.
-4. Make your pull request.
+4. Make your pull requests.
